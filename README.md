@@ -1,5 +1,5 @@
 # hello-world
-just another repository.
+just another repository
 Writing nothing about my holy good self.
 #include <stdio.h>
 int main()
